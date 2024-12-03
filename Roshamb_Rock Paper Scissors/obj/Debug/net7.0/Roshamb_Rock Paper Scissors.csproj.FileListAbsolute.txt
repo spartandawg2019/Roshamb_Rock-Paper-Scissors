@@ -1,0 +1,15 @@
+/Users/tomk/Projects/Roshamb_Rock Paper Scissors/Roshamb_Rock Paper Scissors/bin/Debug/net7.0/Roshamb_Rock Paper Scissors
+/Users/tomk/Projects/Roshamb_Rock Paper Scissors/Roshamb_Rock Paper Scissors/bin/Debug/net7.0/Roshamb_Rock Paper Scissors.deps.json
+/Users/tomk/Projects/Roshamb_Rock Paper Scissors/Roshamb_Rock Paper Scissors/bin/Debug/net7.0/Roshamb_Rock Paper Scissors.runtimeconfig.json
+/Users/tomk/Projects/Roshamb_Rock Paper Scissors/Roshamb_Rock Paper Scissors/bin/Debug/net7.0/Roshamb_Rock Paper Scissors.dll
+/Users/tomk/Projects/Roshamb_Rock Paper Scissors/Roshamb_Rock Paper Scissors/bin/Debug/net7.0/Roshamb_Rock Paper Scissors.pdb
+/Users/tomk/Projects/Roshamb_Rock Paper Scissors/Roshamb_Rock Paper Scissors/obj/Debug/net7.0/Roshamb_Rock Paper Scissors.csproj.AssemblyReference.cache
+/Users/tomk/Projects/Roshamb_Rock Paper Scissors/Roshamb_Rock Paper Scissors/obj/Debug/net7.0/Roshamb_Rock Paper Scissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomk/Projects/Roshamb_Rock Paper Scissors/Roshamb_Rock Paper Scissors/obj/Debug/net7.0/Roshamb_Rock Paper Scissors.AssemblyInfoInputs.cache
+/Users/tomk/Projects/Roshamb_Rock Paper Scissors/Roshamb_Rock Paper Scissors/obj/Debug/net7.0/Roshamb_Rock Paper Scissors.AssemblyInfo.cs
+/Users/tomk/Projects/Roshamb_Rock Paper Scissors/Roshamb_Rock Paper Scissors/obj/Debug/net7.0/Roshamb_Rock Paper Scissors.csproj.CoreCompileInputs.cache
+/Users/tomk/Projects/Roshamb_Rock Paper Scissors/Roshamb_Rock Paper Scissors/obj/Debug/net7.0/Roshamb_Rock Paper Scissors.dll
+/Users/tomk/Projects/Roshamb_Rock Paper Scissors/Roshamb_Rock Paper Scissors/obj/Debug/net7.0/refint/Roshamb_Rock Paper Scissors.dll
+/Users/tomk/Projects/Roshamb_Rock Paper Scissors/Roshamb_Rock Paper Scissors/obj/Debug/net7.0/Roshamb_Rock Paper Scissors.pdb
+/Users/tomk/Projects/Roshamb_Rock Paper Scissors/Roshamb_Rock Paper Scissors/obj/Debug/net7.0/Roshamb_Rock Paper Scissors.genruntimeconfig.cache
+/Users/tomk/Projects/Roshamb_Rock Paper Scissors/Roshamb_Rock Paper Scissors/obj/Debug/net7.0/ref/Roshamb_Rock Paper Scissors.dll
